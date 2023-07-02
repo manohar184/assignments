@@ -1,0 +1,23 @@
+initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   addValues.py
+#	new file:   numberOfOccurences.py
+#	new file:   numberOfOccurencesOfVowel.py
+#	new file:   studentDetails.py
+#
+# Changes not staged for commit:
+#	modified:   ../23.05.2023/reverseOrder.py
+#
+# Untracked files:
+#	../23.05.2023/everyLetter.py
+#	../23.05.2023/rSplit.py
+#	../23.05.2023/secondPattern.py
+#	../23.05.2023/subList.py
+#	../23.05.2023/thirdPattern.py
+#
